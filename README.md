@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Dongjie Zhang/Doz13@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
-
+* I like play basketball.
+* I like programming.
+* I am in my second year of graduate study.
+* I wanna find a job. TOT!
 ---
 Make some changes locally.  I want to add  a sentence.
